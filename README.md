@@ -17,14 +17,14 @@
 
 - **Node.js**, **TypeScript**, **Next.js**, **Tailwind CSS**.  
 
-- **Python**, **Bash**, and **PowerShell**.
+- **Python**, **Bash**, **PowerShell**.
 
 ### 🌍 Languages
 - **English** — Proficient  
 - **Japanese** — Currently studying (aiming for **JLPT N2**)  
 
 
-🎯 I am currently aiming for **OSCP+ certification** to sharpen my offensive security expertise.
+🎯 I am currently aiming for **OSCP+ certification** to sharpen my offensive security expertise, also Kubestronaut.
 
 ---
 
