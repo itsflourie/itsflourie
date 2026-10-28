@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Flourie
 
-**DevSecOps Engineer** · Cloud-Native Security · Kubernetes · Melbourne, Australia
-🌐 [castorice.cloud](https://castorice.cloud)
+**DevSecOps & AI Infrastructure Engineer** · Kubernetes · Datacenter · Computer Vision & LLMs  
+📍 Melbourne, Australia · 🌐 [castorice.cloud](https://castorice.cloud)
 
 ---
 
@@ -11,12 +11,14 @@
    <img src="https://lanyard-profile-readme.vercel.app/api/316895231431671809?idleMessage=Away" alt="Discord Presence" align="right">
 </a>
 
-- **DevSecOps & Cloud:** Docker, Kubernetes, Terraform
+- **DevSecOps & Cloud-Native:** Docker, Kubernetes, Terraform, infrastructure as code
+- **AI Engineering:** computer vision (PyTorch, YOLO, OpenCV), LLM development and serving (vLLM, Ollama, RAG)
+- **AI Infrastructure:** bare-metal NVIDIA GPU server deployment in datacenters (rack-and-stack, IPMI/BMC, Proxmox)
+- **Network Engineering:** large-scale, multi-site network deployment, datacenter fabrics (BGP, OSPF, VXLAN/EVPN), high-performance AI cluster networking (InfiniBand, RoCE), network security (firewalls, VPNs, DPI) · Official MikroTik Consultant
 - **Offensive Security:** vulnerability assessment, exploit research, ethical hacking
-- **Networking:** routing, firewalls, VPNs, deep packet inspection · Official MikroTik Consultant
 - **Test Automation:** Appium, Selenium, Puppeteer
-- **Web Development:** Node.js, TypeScript, Next.js, Tailwind CSS
-- **Scripting:** Python, Bash, PowerShell
+- **Programming:** Rust, Python, TypeScript, Node.js, Next.js, Tailwind CSS
+- **Scripting:** Bash, PowerShell
 
 ### 🎯 Currently Working Toward
 - **Kubestronaut**: all five CNCF Kubernetes certifications
@@ -30,5 +32,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/NLg7AdOArugAAAAM/ye-shunguang-zzz.gif" alt="Ye Shunguang – Zenless Zone Zero" />
+  <img src="https://media.tenor.com/hLUT9nx4-k4AAAAM/phoenix-zzz-zenless-zone-zero.gif" alt="Phoenix – Zenless Zone Zero" />
 </div>
