@@ -1,33 +1,34 @@
-# 👋 Hi! I'm Flourie  
+# 👋 Hi, I'm Flourie
+
+**DevSecOps Engineer** · Cloud-Native Security · Kubernetes · Melbourne, Australia
+🌐 [castorice.cloud](https://castorice.cloud)
+
 ---
 
 ### 🧑‍💻 Expertise
 
 <a href="https://discord.com/users/316895231431671809" target="_blank" rel="nofollow">
-   <img src="https://lanyard-profile-readme.vercel.app/api/316895231431671809?idleMessage=Probably%20sleeping..." alt="Discord Presence" align="right">
+   <img src="https://lanyard-profile-readme.vercel.app/api/316895231431671809?idleMessage=Away" alt="Discord Presence" align="right">
 </a>
 
-- Vulnerability assessment, exploit research, ethical hacking.
+- **DevSecOps & Cloud:** Docker, Kubernetes, Terraform
+- **Offensive Security:** vulnerability assessment, exploit research, ethical hacking
+- **Networking:** routing, firewalls, VPNs, deep packet inspection · Official MikroTik Consultant
+- **Test Automation:** Appium, Selenium, Puppeteer
+- **Web Development:** Node.js, TypeScript, Next.js, Tailwind CSS
+- **Scripting:** Python, Bash, PowerShell
 
-- Routing, firewalls, VPNs, and deep packet inspection, listed as an official MikroTik Consultant
-
-- Docker, Kubernetes, Terraform 
-
-- Appium, Selenium, Puppeteer
-
-- **Node.js**, **TypeScript**, **Next.js**, **Tailwind CSS**.  
-
-- **Python**, **Bash**, **PowerShell**.
+### 🎯 Currently Working Toward
+- **Kubestronaut**: all five CNCF Kubernetes certifications
+- **OSCP+**: offensive security certification
+- **JLPT N2**: Japanese language proficiency
 
 ### 🌍 Languages
-- **English** — Proficient  
-- **Japanese** — Currently studying (aiming for **JLPT N2**)  
-
-
-🎯 I am currently aiming for **OSCP+ certification** to sharpen my offensive security expertise, also Kubestronaut.
+- **English**: Professional proficiency
+- **Japanese**: Studying
 
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/NLg7AdOArugAAAAM/ye-shunguang-zzz.gif" alt="wife" />
+  <img src="https://media.tenor.com/NLg7AdOArugAAAAM/ye-shunguang-zzz.gif" alt="Ye Shunguang – Zenless Zone Zero" />
 </div>
